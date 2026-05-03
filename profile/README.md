@@ -2,7 +2,6 @@
 
 ![SonoLink](https://raw.githubusercontent.com/sonolink/sonolink/main/docs/_static/images/banner.png)
 
-[Documentation](https://sonolink.readthedocs.io/en/latest) · [Discord Server](https://discord.gg/tPHVWBPedt)
 
 </div>
 
