@@ -7,11 +7,13 @@
 
 ## Who We Are
 
-We are the developers behind **SonoLink**, a modern and high-performance Python wrapper for Lavalink v4 designed for reliability, speed, and type safety, inspired by [WaveLink](https://github.com/PythonistaGuild/Wavelink).  
+We build and maintain modern, feature-rich alternatives across the Discord ecosystem.
+Our goal is to create high-quality developer tools with multi-library support, improved developer experience, and capabilities that go beyond existing single-framework solutions.
 
-- [Documentation](https://sonolink.readthedocs.io/en/latest)
-- [PyPI Package](https://pypi.org/project/sonolink)
--  [Discord Server](https://discord.gg/tPHVWBPedt)
-- [Examples](https://github.com/sonolink/sonolink/tree/main/examples)
+## Projects
+- [SonoLink](https://github.com/sonolink/sonolink)
+- [Speculare](https://github.com/sonolink/speculare)
+- More projects coming soon...
 
-Our current project can be viewed [here](https://github.com/sonolink/sonolink).
+## Links
+- [Discord Server](https://discord.gg/tPHVWBPedt)
