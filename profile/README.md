@@ -7,7 +7,7 @@
 
 ## Who We Are
 
-We build and maintain modern, feature-rich software and developer tools across the software ecosystem.
+We build and maintain modern, feature-rich software and developer tools across the software ecosystem.  
 Our goal is to create high-quality developer tools with multi-library support, improved developer experience, and capabilities that go beyond existing single-framework solutions.
 
 ## Projects
