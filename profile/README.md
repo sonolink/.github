@@ -12,7 +12,7 @@ Our goal is to create high-quality developer tools with multi-library support, i
 
 ## Projects
 - [SonoLink](https://github.com/sonolink/sonolink)
-- [Arbiter](https://github.com/sonolink/arbiter)
+- [Arbiterer](https://github.com/sonolink/arbiterer)
 - ~~[Speculare](https://github.com/sonolink/speculare)~~ (frozen, no ETA)
 - More projects coming soon...
 
